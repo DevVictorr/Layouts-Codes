@@ -1,0 +1,33 @@
+header section{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 70px;
+    padding: 15px 0px;
+    background-color: #5e5c5c;
+
+}
+
+ .menu ul{
+    display: flex;
+    flex-direction: row;
+
+    margin: 0px 130px 0px 130px;
+    
+}
+
+header nav ul li a{
+
+    font-size: 20px;
+    margin: 18px;
+    color: #ffffff;
+    
+}
+
+body{
+
+    background: #000;
+}
+
