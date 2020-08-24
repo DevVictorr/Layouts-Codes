@@ -1,27 +1,29 @@
 header section{
 
-    display: flex;
-    flex-direction: row;
+    
     justify-content: space-between;
     align-items: center;
-    margin-top: 70px;
-    padding: 15px 0px;
+    margin: 70px 0px 0px 0px;
+    padding: 15px 130px;
     background-color: #5e5c5c;
 
 }
 
- .menu ul{
+ header section nav ul{
     display: flex;
     flex-direction: row;
-
-    margin: 0px 130px 0px 130px;
+    align-items: center;
+    
     
 }
 
-header nav ul li a{
 
+
+header nav ul li a {
+
+    
     font-size: 20px;
-    margin: 18px;
+    padding: 0px 30px;
     color: #ffffff;
     
 }

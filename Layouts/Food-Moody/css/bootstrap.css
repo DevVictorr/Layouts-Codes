@@ -1,12 +1,12 @@
 *{
     margin: 0;
-	padding: 0;
-	border: 0;
-	font-size: 100%;
-	font: inherit;
-	vertical-align: baseline;
-	text-decoration: none;
-	list-style-type: none;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font-weight: 300;
+    vertical-align: baseline;
+    text-decoration: none;
+    list-style: none;
 }
 
 
@@ -14,5 +14,22 @@ body{
 
 background-image: url('../imgs/bg.jpg');
 background-repeat: no-repeat;
+background-position:left center;
+
+}
+.container{
+
+    width: 1440px;
+    margin: 0px auto;
+    display: flex;
+    flex-direction: column;
+    
+
+}
+
+.row{
+
+    display: flex;
+    flex-direction: row;
 
 }
