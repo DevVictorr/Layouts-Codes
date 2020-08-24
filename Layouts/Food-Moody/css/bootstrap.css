@@ -19,7 +19,7 @@ background-position:left center;
 }
 .container{
 
-    width: 1440px;
+    width: 1024px;
     margin: 0px auto;
     display: flex;
     flex-direction: column;
