@@ -1,0 +1,30 @@
+header section{
+
+    
+    justify-content: space-between;
+    align-items: center;
+    margin: 70px 0px 0px 0px;
+    padding: 15px 60px;
+    background-color: #5e5c5c;
+
+}
+
+ header section nav ul{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+    
+}
+
+
+
+header nav ul li a {
+
+    
+    font-size: 20px;
+    padding: 0px 20px;
+    color: #ffffff;
+    
+}
+
