@@ -7,7 +7,7 @@ margin: 0px 140px 0px 0px;
     
 }
 
-.sobre-web-design #imgPanelas{
+#imgPanelas{
 
     margin: -640px 550px 0px 0px;
 
@@ -43,3 +43,35 @@ color: #ffc901;
 margin: 0px 0px 0px 0px;
 
 }
+
+
+@media(max-width: 425px){
+
+    header section{
+        background: none;
+    }
+    header section nav .test{
+        flex-direction: column;
+        padding: 200px 60px 0px 60px;
+        align-items: center;
+}
+header nav ul li  {
+         padding: 5px 50px;
+      font-size: 50px;
+}
+#imgPanelas{
+        width: 310px;
+  height: auto;    
+  margin: -640px 550px 0px -10px;
+}
+.sobre-web-design{
+    flex-direction:  column;
+    align-items: center;
+    margin: -50px 0px 0px 0px;
+    }
+    #NowText{
+        color: #ffffff;
+        margin: 90px 0px 0px 0px;
+    }
+}
+
