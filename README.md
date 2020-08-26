@@ -9,7 +9,7 @@ StayLearn:  https://devvictorr.github.io/Layouts-Codes/Layouts/StayLearn/    // 
 Food-Moody:  https://devvictorr.github.io/Layouts-Codes/Layouts/Food-Moody/  // Responsive
 
 
-Error 404 : https://devvictorr.github.io/Layouts-Codes/Layouts/404-ErroR/    //1024x   //ainda editando
+Error 404 : https://devvictorr.github.io/Layouts-Codes/Layouts/404-ErroR/    //1024x
 
 
 
