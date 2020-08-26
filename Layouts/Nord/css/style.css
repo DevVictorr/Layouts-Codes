@@ -1,0 +1,69 @@
+.nav-position{
+
+justify-content: space-between;
+margin: 0px 500px 0px 500px;
+align-items: center; 
+}
+
+
+.nav-x{
+
+    margin: 80px 0px 0px 0px;
+
+}
+.nav-x a{
+    padding: 0px 60px;
+   color: white;
+   font-weight: bold;
+   text-transform: uppercase;
+}
+
+.nav-x #GetNow{
+
+    padding: 20px 40px;
+background: #3c3d41;
+
+}
+
+.linha-header{
+
+    justify-content: space-between;
+    margin: 180px 500px 0px 480px;
+
+}
+
+.texto-header{
+
+    flex-direction: column;
+    align-content: center;
+
+    
+    
+
+}
+h1{
+
+    font-size: 40px;
+    font-weight: bold;
+
+    
+}
+h1 a{
+
+color: white;
+
+}
+h2 {
+
+    margin: 90px 0px 0px 0px;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    LINE-HEIGHT:35px ;
+
+}
+div img {
+
+    margin: 90px 0px 0px 0px;
+
+}
