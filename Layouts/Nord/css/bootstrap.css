@@ -1,0 +1,38 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font-weight: 300;
+    vertical-align: baseline;
+    text-decoration: none;
+    list-style: none;
+    
+    
+}
+
+body{
+
+background-color: #41e0d8;
+background-image: url("../imgs/bg-branco.png");
+background-size: 900px 900px;
+background-repeat: no-repeat;
+
+}
+
+.container{
+
+    width: 1920px;
+    margin: 0px auto;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.row{
+
+display: flex;
+flex-direction: row;
+
+}
