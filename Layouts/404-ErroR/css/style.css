@@ -1,0 +1,42 @@
+
+header section  {
+
+
+    
+    color: rgb(255, 255, 255);
+    margin: 200px 0px 0px 0px;
+    margin-left:auto;
+    margin-right:auto;
+
+        
+}
+header section a {
+    font-size: 150px;
+}
+
+header section img{
+
+width: 97px;
+
+}
+main section #main {
+    
+    text-align: center;
+    margin-left:auto;
+    margin-right:auto;
+    
+}
+main section #main a{
+
+    color:rgb(231, 231, 231);
+    text-align: center;
+    LINE-HEIGHT:40px;
+    
+}
+main section #main #back{
+
+    text-transform: uppercase;
+    font-weight: bold;
+color:#fdd726 ;
+
+}
