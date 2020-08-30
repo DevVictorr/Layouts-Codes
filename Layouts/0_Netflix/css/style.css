@@ -7,11 +7,12 @@
 header{
 
 
+
 }
 
 .main{
 
     background-image: url("../imgs/bg.jpg");
     background-size: ;
-
+    background-color: lawngreen;
 }
