@@ -1,0 +1,158 @@
+
+
+
+*{
+
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: helvetica;
+    color: #323232;
+    border: none;
+
+}
+
+body{
+
+    background-image: url('../img/background2.png');
+    background-size: cover;
+    background-position-y: -200px;
+    }
+
+    textarea:focus, input:focus {
+
+        outline: none;
+
+    }
+
+    a{
+
+        font-size:.8rem;
+
+    }
+
+    a:hover{
+
+        color: blue;
+
+    }
+
+
+
+    /* */
+
+    #login-container {
+
+        background-color: #FFF;
+        width: 400px;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 20px 30px;
+        margin-top: 10vh;
+        border-radius: 10px;
+        text-align: center;
+
+    }
+
+/* */
+
+
+form{
+
+    margin-top: 30px;
+    margin-bottom: 40px;
+
+}
+
+label, input{
+
+display: block;
+width: 100%;
+
+text-align: left;
+
+}
+
+label{
+
+        font-weight: bold;
+
+}
+input{
+
+border-bottom:2px solid black;
+padding: 10px;
+font-size: 1rem;
+margin-bottom: 20px;
+
+
+}
+input:focus{
+border-bottom: 2px solid blue;
+
+}
+
+#forgot-pass {
+
+display: block;
+
+}
+
+input[type="submit"]{
+
+    text-align: center;
+    font-weight: bold;
+border:none;
+border-radius: 20px;
+margin-top: 30px;
+color: #fff;
+background-color: blue;
+cursor:pointer;
+
+}
+input[type="submit"]:hover{
+
+    background-color: rgb(2, 2, 68);
+    transition: .7s;
+
+}
+
+#social-midia, #social-midia p{
+
+margin-bottom: 20px;
+
+}
+
+#social-midia i{
+
+    height: 40px;
+    width: 40px;
+    
+    border-radius: 50%;
+    line-height: 40px;
+    color: #fff;
+    margin:  0 5px;
+    cursor: pointer;
+
+}
+
+.fa-facebook-f{
+background-color: #3B5998;
+
+}
+
+.fa-linkedin{
+
+    background-color: #0077B5;
+
+}
+
+
+/* */
+
+#register-container p{
+
+margin-bottom: 10px;
+
+}
+
