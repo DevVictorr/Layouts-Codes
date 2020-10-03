@@ -1133,7 +1133,14 @@ input[type='checkbox'] {
 .basic-2 .btn-solid-reg {
 	margin-top: 0.5rem;
 }
-
+.basic-2 .img-fluid{
+margin-top: 12vh;
+	
+}
+.basic-3 .img-fluid{
+	margin-top: 12vh;
+		
+	}
 
 /*************************/
 /*     08. Details 2     */
