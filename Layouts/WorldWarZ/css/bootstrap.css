@@ -1,0 +1,25 @@
+header{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+main{
+margin-top: 7vh;
+display: flex;
+flex-direction: column;
+text-align: center;
+}
+.input-txt{
+
+    margin-top: 2vh;
+
+}
+.plataforms{
+
+    margin-top: 2vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px 420px;
+}
