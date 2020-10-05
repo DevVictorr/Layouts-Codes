@@ -112,7 +112,7 @@ height: auto;
     background-color: rgb(0, 0, 0) !important;
 }
 
-@media (max-width: 768px) {
+@media (min-width: 768px) {
 
     .plataforms{
 
@@ -122,7 +122,14 @@ height: auto;
         justify-content: space-between;
         padding: 10px 150px;
     }
+    #botaoEnviar{
+
+        
+        width: 250px;
+        height: 40px;
+        }
 }
+
 @media (min-width: 1024px) {
 
     .plataforms{
@@ -133,17 +140,12 @@ height: auto;
         justify-content: space-between;
         padding: 10px 280px;
     }
-}
-@media (min-width: 1024px) {
+    #botaoEnviar{
 
-    .plataforms{
-
-        margin-top: 2vh;
-        display: flex;
-        flex-direction: row;
-        justify-content: space-between;
-        padding: 10px 280px;
-    }
+        
+        width: 250px;
+        height: 40px;
+        }
 }
 
 @media (min-width: 1360px) {
@@ -156,6 +158,12 @@ height: auto;
         justify-content: space-between;
         padding: 10px 380px;
     }
+    #botaoEnviar{
+
+        
+        width: 350px;
+        height: 40px;
+        }
 }
 
 @media (min-width: 1440px) {
@@ -168,6 +176,95 @@ height: auto;
         justify-content: space-between;
         padding: 10px 450px;
     }
+}
+
+@media (min-width: 1700px) {
+
+    .plataforms{
+
+        margin-top: 2vh;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        padding: 10px 600px;
+    }
+    #botaoEnviar{
+
+        
+        width: 450px;
+        height: 40px;
+        }
+}
+
+@media (min-width: 1900px) {
+
+    .plataforms{
+
+        margin-top: 2vh;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        padding: 10px 700px;
+    }
+    #botaoEnviar{
+
+        
+        width: 450px;
+        height: 40px;
+        }
+}
+
+@media (min-width: 1900px) {
+
+    .plataforms{
+
+        margin-top: 2vh;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        padding: 10px 740px;
+    }
+    #botaoEnviar{
+
+        
+        width: 450px;
+        height: 40px;
+        }
+}
+
+@media (min-width: 2151px) {
+
+    .plataforms{
+
+        margin-top: 2vh;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        padding: 10px 860px;
+    }
+    #botaoEnviar{
+
+        
+        width: 450px;
+        height: 40px;
+        }
+}
+@media (min-width: 2360px) {
+
+    .plataforms{
+
+        margin-top: 2vh;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        padding: 10px 950px;
+    }
+    #botaoEnviar{
+
+        
+        width: 450px;
+        height: 40px;
+        }
 }
 @media (min-width: 2560px) {
 
