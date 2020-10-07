@@ -1,5 +1,7 @@
 # Layouts-Codes-DEMOS
 
+Estúdio-Flore: https://devvictorr.github.io/Layouts-Codes/Layouts/EstudioDo0/ // Editando
+
 Nord: https://devvictorr.github.io/Layouts-Codes/Layouts/Nord/   // 1920x
 
 
