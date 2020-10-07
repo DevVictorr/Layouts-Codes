@@ -1,6 +1,6 @@
 header{
     width: 100%;
-    height: 100px;
+    height: 95px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -22,7 +22,7 @@ header ul{
     flex-direction: row;
 }
 header ul li{
-    padding: 0 6vh;
+    padding: 0 2vh;
 }
 
 
