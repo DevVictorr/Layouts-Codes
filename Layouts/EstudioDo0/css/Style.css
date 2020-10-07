@@ -44,14 +44,36 @@ main h1{
 footer{
     text-align: center;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     margin-top: 45vh;
-    height: 140px;
+    height: 100%;
     background-color: #fff;
-    justify-content: space-around;
-
+    justify-content: space-between;
+    padding: 0px 200px;
+    
 }
 
+
+
+
+.contato, .faq,.social{
+    height: 150px;
+    width: 100%;
+    
+    font-size: 0.7rem;
+    margin-top: 6vh;
+}
+
+.contato , .faq , .social, h1{
+    
+    font-size: 0.8rem;
+}
+
+#email{
+
+    color: #016450;
+
+}
 .p-small{
 
     font-size: 0.5rem;
