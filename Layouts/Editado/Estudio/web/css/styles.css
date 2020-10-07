@@ -49,18 +49,19 @@ html {
 }
 
 body, p {
+	
 	color: #000000; 
-	font: 400 0.875rem/1.375rem "Open Sans", sans-serif;
+	font: 400 0.875rem/1.375rem "Merriweather", serif;
 }
 
 .p-large {
 	color: #000000;
-	font: 400 1rem/1.5rem "Open Sans", sans-serif;
+	font: 400 1rem/1.5rem "Merriweather", serif;
 }
 
 .p-small {
 	color: #000000;
-	font: 400 0.75rem/1.25rem "Open Sans", sans-serif;
+	font: 400 0.75rem/1.25rem "Merriweather", serif;
 }
 
 .p-heading {
@@ -78,32 +79,32 @@ body, p {
 
 h1 {
 	color: #000000;
-	font: 700 2.5rem/2.875rem "Montserrat", sans-serif;
+	font: 700 2.5rem/2.875rem "Merriweather", serif;
 }
 
 h2 {
 	color: #000000;
-	font: 700 2.25rem/2.75rem "Montserrat", sans-serif;
+	font: 700 2.25rem/2.75rem "Merriweather", serif;
 }
 
 h3 {
 	color: #000000;
-	font: 700 1.75rem/2.125rem "Montserrat", sans-serif;
+	font: 700 1.75rem/2.125rem "Merriweather", serif;
 }
 
 h4 {
 	color: #000000;
-	font: 700 1.375rem/1.75rem "Montserrat", sans-serif;
+	font: 700 1.375rem/1.75rem "Merriweather", serif;
 }
 
 h5 {
 	color: #000000;
-	font: 700 1.125rem/1.625rem "Montserrat", sans-serif;
+	font: 700 1.125rem/1.625rem "Merriweather", serif;
 }
 
 h6 {
 	color: #000000;
-	font: 700 1rem/1.5rem "Montserrat", sans-serif;
+	font: 700 1rem/1.5rem "Merriweather", serif;
 }
 
 a {
@@ -125,11 +126,11 @@ a.white {
 }
 
 .testimonial-text {
-	font: italic 400 1rem/1.5rem "Open Sans", sans-serif;
+	font: italic 400 1rem/1.5rem "Merriweather", sans-serif;
 }
 
 .testimonial-author {
-	font: 700 1rem/1.5rem "Montserrat", sans-serif;
+	font: 700 1rem/1.5rem "Merriweather", sans-serif;
 }
 
 .btn-solid-reg {
@@ -139,7 +140,7 @@ a.white {
 	border-radius: 2rem;
 	background-color: #00c9db;
 	color: #fff;
-	font: 700 0.75rem/0 "Montserrat", sans-serif;
+	font: 700 0.75rem/0 "Merriweather", sans-serif;
 	text-decoration: none;
 	transition: all 0.2s ease;
 }
@@ -157,7 +158,7 @@ a.white {
 	border-radius: 2rem;
 	background-color: #00c9db;
 	color: #fff;
-	font: 700 0.75rem/0 "Montserrat", sans-serif;
+	font: 700 0.75rem/0 "Merriweather", sans-serif;
 	text-decoration: none;
 	transition: all 0.2s ease;
 }
@@ -646,8 +647,8 @@ input[type='checkbox'] {
 }
 
 .navbar-custom .navbar-brand.logo-image img {
-    width: 113px;
-	height: 34px;
+    width: 170;
+	height: 70px;
 	margin-bottom: 1px;
 	-webkit-backface-visibility: hidden;
 }
@@ -1561,7 +1562,7 @@ a:hover.back-to-top {
 	}
 
 	h1 {
-		font: 700 3.25rem/3.75rem "Montserrat", sans-serif;
+		font: 77 2.25rem/3.75rem "Merriweather", serif;
 	}
 	/* end of general styles */
 
