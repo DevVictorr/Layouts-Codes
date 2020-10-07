@@ -16,7 +16,7 @@ header img{
     height: 70px;
 }
 
-header ul{
+header ul ,nav{
     
     display: flex;
     flex-direction: row;
@@ -41,3 +41,5 @@ main h1{
     margin-left: 25vh;
 
 }
+
+
