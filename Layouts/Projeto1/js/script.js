@@ -74,7 +74,7 @@ document.getElementById("m-home").style.color ="#000";
 
 
 function aba5(){
-document.getElementById("main").innerHTML = '<h1>Um pouco sobre Dior</h1> <object width="425" height="350"><param name="movie" value="http://www.youtube.com/embed/fb968UyAPDY" /><embed src="http://www.youtube.com/embed/fb968UyAPDY" type="application/x-shockwave-flash" width="425" height="350" />'
+document.getElementById("main").innerHTML = '<h1>Um pouco sobre Dior</h1><a href="http://www.youtube.com/embed/fb968UyAPDY" target="blank"><i class="fab fa-youtube"> Clique aqui para ir ao nosso video</i></a> '
 document.getElementById("m-home").style.backgroundColor = "#F1F1F1";
 document.getElementById("m-item").style.backgroundColor = "#F1F1F1";
 document.getElementById("m-cadastro").style.backgroundColor = "#F1F1F1";
