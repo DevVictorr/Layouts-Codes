@@ -1,25 +1,56 @@
+var user = '';
+var senha= '';
+
+
+function time()
+{
+var today=new Date();
+var h=today.getHours();
+var m=today.getMinutes();
+var s=today.getSeconds();
+var dia=today.getDay();
+var mes=today.getMonth();
+var ano=today.getFullYear();
+
+document.getElementById('txtTime').innerHTML='Bem vindo(a), '+this.user+' hoje é dia '+dia+' do '+mes+' de '+ano+' e são: '+h+" horas,  "+m+" minutos e "+s+' segundos.';
+
+setTimeout('time()',500);
+
+
+}
+
+function timeSet(){
+
+    var today=new Date();
+    var  hh=today.getHours();
+    var mm=today.getMinutes();
+    var ss=today.getSeconds();
+    
+    document.getElementById('txtTimeX').innerHTML=this.user+' Você se conectou pela ultima vez as: '+hh+":"+mm+":"+ss;
+    
+}
+
 
 //login onload da pagina
 function loginpage(){
 
-    var user = '';
-    var senha= '';
     
-    while( user != 'admin' | senha != 'aaa'){
+    
+    while( user == '' | senha == ''){
 
     let sign = prompt("Qual seu Usuario ?");
     let key = prompt("Qual sua Senha ?");
 
-    if (sign.toLowerCase() == "admin" & key.toLowerCase() == 'aaa') {
+    if (sign.toLowerCase() != "" & key.toLowerCase() != '') {
       alert("Logou com sucesso");
     }
 
-    else if(sign != "admin"){ 
-alert("error!!! - Usuario Digite: admin");
+    else if(sign == ""){ 
+alert("error!!! - Usuario Digite algum usuario");
 
     }
-    else if(key != "aaa"){
-alert("error!!! - Senha   Digite: aaa");
+    else if(key == ""){
+alert("error!!! - Senha   Digite alguma senha");
 
     }
 
