@@ -1,7 +1,5 @@
 # Layouts-Codes-DEMOS
 
-Estúdio-Flore: https://devvictorr.github.io/Layouts-Codes/Layouts/EstudioDo0/ // Editando
-
 Nord: https://devvictorr.github.io/Layouts-Codes/Layouts/Nord/   // 1920x
 
 
@@ -16,5 +14,5 @@ Error 404 : https://devvictorr.github.io/Layouts-Codes/Layouts/404-ErroR/    //1
 
 Login: https://devvictorr.github.io/Layouts-Codes/Layouts/Tela_Login/   
 
-
+Estúdio-Flore: https://devvictorr.github.io/Layouts-Codes/Layouts/EstudioDo0/ // Editando
 
